@@ -1,5 +1,5 @@
 /* Imports CSS sheets of components*/
-@import url("file:///Users/ismail/Desktop/Landing/css/components/banner.css");
+@import url("file:///Users/ismail/Desktop/LeWagon/css/components/banner.css");
 
 /* BASICS */
 body{
@@ -48,9 +48,6 @@ a:hover {
   padding-bottom: 30px;
   font-weight: lighter;
   text-align: center;
-}
-.fa fa-weixin {
-  color: red;
 }
 .avatar {
   border-radius: 200px;
