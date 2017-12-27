@@ -1,0 +1,25 @@
+#banner{
+  height: vh;
+  text-align: center;
+  background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url("file:///Users/ismail/Desktop/Landing/Images/shanghai.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 80px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+#banner p {
+  color: white;
+  opacity: 1;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#banner a {
+  color: white;
+}

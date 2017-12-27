@@ -1,0 +1,59 @@
+/* Imports CSS sheets of components*/
+@import url("file:///Users/ismail/Desktop/Landing/css/components/banner.css");
+
+/* BASICS */
+body{
+  background: rgb(245,245,245);
+  color: #5C636E;
+  font-size: 15px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: 'Quicksand', sans-serif;
+  color: #000000;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  color: black;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: #b1b1b1;
+}
+a:hover {
+  text-decoration: none;
+  color: #123456;
+}
+
+/* CUSTOM */
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+.card{
+  padding: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-weight: lighter;
+  text-align: center;
+}
+.fa fa-weixin {
+  color: red;
+}
+.avatar {
+  border-radius: 200px;
+  width: 200px
+  
+}
